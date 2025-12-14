@@ -50,7 +50,7 @@ Here are a few of my notable projects:
 Feel free to reach out via any of the following channels:
 
 - ✉️ Email: [prasantrai9819@email.com](mailto:prasantrai9819@email.com)  
-- 💼 LinkedIn: [linkedin.com/in/Prashant Rai](https://linkedin.com/in/PrasantRai)  
+- 💼 LinkedIn: [linkedin.com/in/prashant-rai-1a32a9365](https://linkedin.com/in/PrasantRai)  
 - 🐙 GitHub: [github.com/Prasant-Rai](https://github.com/Prasant-Rai)
 
 
