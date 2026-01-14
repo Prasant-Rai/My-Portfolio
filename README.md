@@ -6,7 +6,7 @@ Check out the **live website** here: [Live Portfolio]([https://prasant-rai.githu
 
 
 
-## 🧑‍💻 About Me
+##  About Me
 
 I am a motivated **Computer Science student** with a strong passion for **web development** and **data science**. I enjoy building **clean, interactive web applications** and exploring **new technologies** through practical projects.  
 
@@ -15,7 +15,7 @@ I am a motivated **Computer Science student** with a strong passion for **web de
 
 
 
-## 🛠 Skills
+##  Skills
 
 Here are some of the technologies and tools I work with:
 
@@ -27,7 +27,7 @@ Here are some of the technologies and tools I work with:
 
 
 
-## 📂 Projects
+##  Projects
 
 Here are a few of my notable projects:
 
@@ -45,17 +45,17 @@ Here are a few of my notable projects:
    - Features add, delete, and mark tasks as complete.
   
 
-## 📫 Contact Me
+##  Contact Me
 
 Feel free to reach out via any of the following channels:
 
-- ✉️ Email: [prasantrai9819@email.com](mailto:prasantrai9819@email.com)  
-- 💼 LinkedIn: [linkedin.com/in/prashant-rai](https://linkedin.com/in/prashant-rai-1a32a9365)  
-- 🐙 GitHub: [github.com/Prasant-Rai](https://github.com/Prasant-Rai)
+-  Email: [prasantrai9819@email.com](mailto:prasantrai9819@email.com)  
+-  LinkedIn: [linkedin.com/in/prashant-rai](https://linkedin.com/in/prashant-rai-1a32a9365)  
+-  GitHub: [github.com/Prasant-Rai](https://github.com/Prasant-Rai)
 
 
 
-## ⚡ Features of the Portfolio Website
+##  Features of the Portfolio Website
 
 - Clean and professional design  
 - Smooth scrolling navigation  
@@ -66,7 +66,7 @@ Feel free to reach out via any of the following channels:
 
 
 
-## 📜 License
+##  License
 
 This project is open-source and available under the [MIT License](LICENSE).
 
